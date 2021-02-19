@@ -1,5 +1,5 @@
 {
-    "name": "Harvin's Nades Update 18/2/21",
+    "name": "Harvin's Nades 18/2/21",
     "description": "| Harvin#6969 | 2v2, 5v5, and community nades.",
     "locations": {
   "cs_office": [
@@ -441,6 +441,21 @@
         "recovery_yaw": -90,
         "jump": true
       }
+    },
+    {
+      "name": ["Cat", "Fakeduck"],
+      "weapon": "weapon_hegrenade",
+      "position": [100.69380187988, 1360.0213623047, 0.03125],
+      "viewangles": [-14.784025192261, 52.948848724365]
+    },
+    {
+      "name": ["Upper Tunns", "Stairs (Fakeduck)"],
+      "weapon": "weapon_molotov",
+      "position": [-2030.6666259766, 1482.3670654297, 32.03125],
+      "viewangles": [-1.8487727642059, -37.655292510986],
+      "grenade": {
+        "run": 10
+      }
     }
   ],
   "de_inferno": [
@@ -722,6 +737,12 @@
         "recovery_yaw": -115,
         "jump": true
       }
+    },
+    {
+      "name": ["A Site", "Box Fakeduck"],
+      "weapon": "weapon_hegrenade",
+      "position": [-242.28019714355, -1839.7453613281, -167.96875],
+      "viewangles": [-12.012017250061, 127.65996551514]
     }
   ],
   "de_nuke": [
