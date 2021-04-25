@@ -1,0 +1,1348 @@
+{
+    "name": "Harvin's Nades 9/4/21",
+    "description": "| Harvin#6969 | 2v2, 5v5, and community nades.",
+    "locations": {
+  "cs_office": [
+    {
+      "name": ["Stairs", "Vending "],
+      "weapon": "weapon_molotov",
+      "position": [-103.76937866211, -1005.3908691406, -223.96875],
+      "viewangles": [-12.982271194458, 64.958404541016],
+      "grenade": {
+        "run": 4
+      }
+    },
+    {
+      "name": ["Back Way", "Back Way"],
+      "weapon": "weapon_hegrenade",
+      "position": [403.01510620117, -1012.0371704102, -223.96875],
+      "viewangles": [-2.494978427887, -1.2449420690536],
+      "grenade": {
+        "run": 10,
+        "recovery_yaw": 180,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Stairs", "Vending"],
+      "weapon": "weapon_hegrenade",
+      "position": [-103.75647735596, -1005.3872680664, -223.96875],
+      "viewangles": [-12.936246871948, 64.986747741699],
+      "grenade": {
+        "run": 6
+      }
+    },
+    {
+      "name": ["Back Way", "Back Way"],
+      "weapon": "weapon_molotov",
+      "position": [403.02084350586, -1012.0393676758, -223.96875],
+      "viewangles": [-2.5876429080963, -1.2268294095993],
+      "grenade": {
+        "run": 10,
+        "recovery_yaw": 180,
+        "run_yaw": 90
+      }
+    },
+    {
+      "name": ["Main Hall", "Boxes (FD)"],
+      "weapon": "weapon_molotov",
+      "position": [728.52233886719, -432.05090332031, -159.96875],
+      "viewangles": [-2.3105235099792, -48.785781860352],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Main Hall", "Boxes (FD)"],
+      "weapon": "weapon_hegrenade",
+      "position": [728.45715332031, -432.04174804688, -159.96875],
+      "viewangles": [-1.8957424163818, -48.939262390137],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Back Way", "Main Hall"],
+      "weapon": "weapon_molotov",
+      "position": [851.05194091797, -926.35589599609, -159.96875],
+      "viewangles": [12.517374992371, 44.316108703613],
+      "grenade": {
+        "run": 19,
+        "delay": 7,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Back Way", "Main Hall"],
+      "weapon": "weapon_hegrenade",
+      "position": [850.98516845703, -926.34362792969, -159.96875],
+      "viewangles": [12.425322532654, 44.498989105225],
+      "grenade": {
+        "run": 19,
+        "delay": 7,
+        "jump": true
+      }
+    }
+  ],
+  "de_cbble": [
+    {
+      "name": ["Fountain", "T Main"],
+      "weapon": "weapon_molotov",
+      "position": [228.94902038574, -1145.0291748047, -71.96875],
+      "viewangles": [9.3785676956177, 85.794860839844],
+      "grenade": {
+        "recovery_yaw": 0,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Fountain", "Tunns"],
+      "weapon": "weapon_molotov",
+      "position": [357.43817138672, -1070.8336181641, -71.96875],
+      "viewangles": [8.3157825469971, 147.00923156738],
+      "grenade": {
+        "recovery_yaw": 0,
+        "jump": true
+      }
+    },
+    {
+      "name": ["B Site", "T Main"],
+      "weapon": "weapon_molotov",
+      "position": [-363.49334716797, -694.12341308594, -63.96875],
+      "viewangles": [-4.0197010040283, 30.632274627686],
+      "grenade": {
+        "run": 20,
+        "recovery_yaw": -90
+      }
+    },
+    {
+      "name": ["Fountain", "Rock (FD)"],
+      "weapon": "weapon_molotov",
+      "position": [438.33715820313, -890.9921875, -71.96875],
+      "viewangles": [6.3286733627319, 179.91728210449],
+      "grenade": {
+        "strength": 0.5,
+        "recovery_yaw": 0,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Fountain", "Rock (FD)"],
+      "weapon": "weapon_hegrenade",
+      "position": [608.08856201172, -898.42681884766, -110.05321502686],
+      "viewangles": [5.6354150772095, 179.08894348145],
+      "grenade": {
+        "recovery_yaw": 0,
+        "jump": true
+      }
+    }
+  ],
+  "de_dust2": [
+    {
+      "name": ["Mid Doors", "Window"],
+      "weapon": "weapon_molotov",
+      "position": [-356.74340820313, 1838.4547119141, -122.22846984863],
+      "viewangles": [-24.901414871216, 133.78630065918],
+      "grenade": {
+        "run": 7
+      }
+    },
+    {
+      "name": ["Long", "T Pillar"],
+      "weapon": "weapon_molotov",
+      "position": [229.81159973145, -338.81335449219, 0.19924163818359],
+      "viewangles": [4.3753943443298, -133.21925354004],
+      "grenade": {
+        "run": 30,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Long", "T Pillar"],
+      "weapon": "weapon_hegrenade",
+      "position": [229.85456848145, -338.85516357422, 0.19527435302734],
+      "viewangles": [4.2829170227051, -133.29304504395],
+      "grenade": {
+        "run": 30,
+        "jump": true
+      }
+    }
+  ],
+  "de_dust2_old": [
+    {
+      "name": ["Top Mid", "X Box"],
+      "weapon": "weapon_molotov",
+      "position": [-27.468505859375, 384.37841796875, 2.2133102416992],
+      "viewangles": [-16.632041931152, 127.94345092773],
+      "grenade": {
+        "run": 11
+      }
+    },
+    {
+      "name": ["Cat", "Barrels"],
+      "weapon": "weapon_molotov",
+      "position": [52.279289245605, 1506.9558105469, 0.03125],
+      "viewangles": [11.457200050354, -129.53875732422],
+      "grenade": {
+        "run": 30,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Cat", "Fakeduck"],
+      "weapon": "weapon_molotov",
+      "position": [100.70006561279, 1360.0244140625, 0.03125],
+      "viewangles": [-14.784482955933, 52.988552093506],
+      "grenade": {
+        "run": 1
+      }
+    },
+    {
+      "name": ["Top Mid", "X Box"],
+      "weapon": "weapon_hegrenade",
+      "position": [-15.855839729309, 379.47738647461, 2.3288650512695],
+      "viewangles": [7.5299129486084, 128.79455566406],
+      "grenade": {
+        "run": 25,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Out Long", "T Spawn"],
+      "weapon": "weapon_molotov",
+      "position": [349.74234008789, -321.57601928711, 6.2503051757813],
+      "viewangles": [-3.3273954391479, -140.45088195801],
+      "grenade": {
+        "run": 20,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Stairs", "Barrels"],
+      "weapon": "weapon_molotov",
+      "position": [272.01416015625, 1731.6824951172, 74.485610961914],
+      "viewangles": [-17.279872894287, 53.414478302002],
+      "grenade": {
+        "run": 23
+      }
+    },
+    {
+      "name": ["Stairs", "Fakeduck Boxes"],
+      "weapon": "weapon_molotov",
+      "position": [322.93350219727, 1801.5733642578, 96.03125],
+      "viewangles": [-4.0206565856934, 55.432014465332],
+      "grenade": {
+        "run": 23
+      }
+    },
+    {
+      "name": ["Window", "Tunns"],
+      "weapon": "weapon_molotov",
+      "position": [-1200.5092773438, 2676.1848144531, 100.72955322266],
+      "viewangles": [10.716998100281, -132.53573608398],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Window", "Car Fakeduck"],
+      "weapon": "weapon_molotov",
+      "position": [-1225.3067626953, 2635.1948242188, 105.62542724609],
+      "viewangles": [12.657482147217, -107.72612762451],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Window", "Fakeduck Back"],
+      "weapon": "weapon_molotov",
+      "position": [-1198.0463867188, 2649.3312988281, 99.526458740234],
+      "viewangles": [10.439638137817, -168.0532989502],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Doubledoors", "Barrels"],
+      "weapon": "weapon_molotov",
+      "position": [-363.33746337891, 2379.0673828125, -101.1600189209],
+      "viewangles": [2.0773513317108, -87.018524169922],
+      "grenade": {
+        "run": 13,
+        "jump": true
+      }
+    },
+    {
+      "name": ["CT Spawn", "A Ramp"],
+      "weapon": "weapon_molotov",
+      "position": [417.5944519043, 2315.724609375, -121.96875],
+      "viewangles": [-26.751495361328, 32.039165496826],
+      "grenade": {
+        "run": 17,
+        "run_yaw": -90
+      }
+    },
+    {
+      "name": ["CT Spawn", "Cat"],
+      "weapon": "weapon_molotov",
+      "position": [596.12133789063, 2182.2443847656, -98.260650634766],
+      "viewangles": [-73.506202697754, -137.38688659668],
+      "grenade": {
+        "strength": 0.5
+      }
+    },
+    {
+      "name": ["Doubledoors", "Back of B"],
+      "weapon": "weapon_molotov",
+      "position": [-338.69351196289, 1912.6690673828, -127.28856658936],
+      "viewangles": [-5.4074640274048, 147.53010559082],
+      "grenade": {
+        "run": 32,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Doubledoors", "Window"],
+      "weapon": "weapon_molotov",
+      "position": [-348.07638549805, 1810.7149658203, -126.70658111572],
+      "viewangles": [-6.7011852264404, 132.44931030273],
+      "grenade": {
+        "run": 14,
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Site", "Left of Pit"],
+      "weapon": "weapon_molotov",
+      "position": [1056.8883056641, 2464.1772460938, 170.03125],
+      "viewangles": [13.811475753784, -74.627418518066],
+      "grenade": {
+        "run": 20,
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Site", "Right of Pit"],
+      "weapon": "weapon_molotov",
+      "position": [1191.4230957031, 2318.2502441406, 129.19825744629],
+      "viewangles": [10.25378036499, -82.942817687988],
+      "grenade": {
+        "run": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Long Doors", "Long Corner (Shit spot)"],
+      "weapon": "weapon_molotov",
+      "position": [955.71539306641, 1195.9482421875, 40.139221191406],
+      "viewangles": [4.4813179969788, -115.5858001709],
+      "grenade": {
+        "run": 11,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Window", "Crate Stack"],
+      "weapon": "weapon_molotov",
+      "position": [-1224.7596435547, 2688.7036132813, 111.49504089355],
+      "viewangles": [13.998423576355, -121.76402282715],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Window", "Tunns (Short)"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1195.5401611328, 2680.1105957031, 100.80686950684],
+      "viewangles": [9.8404874801636, -132.48034667969],
+      "grenade": {
+        "run": 1,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Window", "Fakeduck Back"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1198.0233154297, 2649.2844238281, 99.520401000977],
+      "viewangles": [10.348609924316, -168.07353210449],
+      "grenade": {
+        "run": 2,
+        "jump": true
+      }
+    },
+    {
+      "name": ["T Start", "Long Hall"],
+      "weapon": "weapon_molotov",
+      "position": [-348.76275634766, -832.05578613281, 94.580993652344],
+      "viewangles": [8.336986541748, 47.936862945557],
+      "grenade": {
+        "run": 12,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Short Stairs", "Fakeduck Boxes"],
+      "weapon": "weapon_hegrenade",
+      "position": [322.94500732422, 1801.5461425781, 96.03125],
+      "viewangles": [-4.0447444915771, 55.459613800049],
+      "grenade": {
+        "run": 35,
+        "recovery_yaw": 180
+      }
+    },
+    {
+      "name": ["Mid", "Lower Tunns (Cubby)"],
+      "weapon": "weapon_hegrenade",
+      "position": [-332.01278686523, 1257.119140625, -98.008117675781],
+      "viewangles": [8.1058053970337, 145.4683380127],
+      "grenade": {
+        "run": 22,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Mid", "Lower Tunns (Boxes)"],
+      "weapon": "weapon_hegrenade",
+      "position": [-349.94091796875, 1220.5181884766, -100.39241027832],
+      "viewangles": [8.3830318450928, 135.8529510498],
+      "grenade": {
+        "run": 22,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Mid", "Lower Tunns (Boxes)"],
+      "weapon": "weapon_molotov",
+      "position": [-332.94131469727, 1242.9165039063, -96.131881713867],
+      "viewangles": [13.095311164856, 139.63632202148],
+      "grenade": {
+        "run": 22,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Upper Tunns", "Outer Tunns (Right)"],
+      "weapon": "weapon_molotov",
+      "position": [-1767.5045166016, 1115.0744628906, 32.03125],
+      "viewangles": [17.610414505005, 120.21495819092],
+      "grenade": {
+        "run": 33,
+        "recovery_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["B Doors", "Back of B (Fakeduck)"],
+      "weapon": "weapon_molotov",
+      "position": [-522.61059570313, 2370.5270996094, -103.4508972168],
+      "viewangles": [-1.7477934360504, 158.45765686035],
+      "grenade": {
+        "run": 10,
+        "recovery_yaw": -90,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Cat", "Fakeduck"],
+      "weapon": "weapon_hegrenade",
+      "position": [100.74600982666, 1360.0620117188, 0.03125],
+      "viewangles": [-17.897817611694, 54.234970092773]
+    },
+    {
+      "name": ["Upper Tunns", "Stairs (Fakeduck)"],
+      "weapon": "weapon_molotov",
+      "position": [-2030.6666259766, 1482.3670654297, 32.03125],
+      "viewangles": [-1.8487727642059, -37.655292510986],
+      "grenade": {
+        "run": 10
+      }
+    },
+    {
+      "name": ["Long", "Pit (FD)"],
+      "weapon": "weapon_molotov",
+      "position": [543.57849121094, 592.72064208984, 1.547981262207],
+      "viewangles": [-61.463989257813, 3.6538834571838],
+      "grenade": {
+        "run": 12,
+        "jump": true
+      }
+    }
+  ],
+  "de_inferno": [
+    {
+      "name": ["Arch", "Pit"],
+      "weapon": "weapon_molotov",
+      "position": [2101.6677246094, 1170.734375, 164.416015625],
+      "viewangles": [-16.216144561768, -65.632736206055],
+      "grenade": {
+        "run": 6
+      }
+    },
+    {
+      "name": ["Arch", "A Box (Defualt)"],
+      "weapon": "weapon_molotov",
+      "position": [1832.9750976563, 1387.2108154297, 160.03125],
+      "viewangles": [-26.795963287354, -76.654830932617]
+    },
+    {
+      "name": ["A Site Middle", "A Site Middle"],
+      "weapon": "weapon_molotov",
+      "position": [1355.0247802734, 562.91564941406, 130.03234863281],
+      "viewangles": [-35.158226013184, -1.4778485298157],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Top Mid", "A Box (Defualt)"],
+      "weapon": "weapon_molotov",
+      "position": [1350.7221679688, 267.02352905273, 127.95610046387],
+      "viewangles": [-20.050893783569, -40.378349304199],
+      "grenade": {
+        "run": 20,
+        "run_yaw": -12
+      }
+    },
+    {
+      "name": ["Arch", "Box (Close)"],
+      "weapon": "weapon_molotov",
+      "position": [2084.3952636719, 1084.9376220703, 157.4214630127],
+      "viewangles": [-52.4372215271, -109.03240966797],
+      "grenade": {
+        "run": 1,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Arch", "A Box (Defualt)"],
+      "weapon": "weapon_hegrenade",
+      "position": [2147.8911132813, 1225.9468994141, 172.17420959473],
+      "viewangles": [4.4810690879822, -91.596824645996],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Arch", "A Box (Defualt)"],
+      "weapon": "weapon_hegrenade",
+      "position": [2076.5346679688, 1166.1927490234, 163.57197570801],
+      "viewangles": [-10.903575897217, -58.55513381958],
+      "grenade": {
+        "run": 24
+      }
+    },
+    {
+      "name": ["Arch", "Box (Close)"],
+      "weapon": "weapon_hegrenade",
+      "position": [1996.3194580078, 1134.5986328125, 157.61520385742],
+      "viewangles": [-65.142486572266, -96.158828735352],
+      "grenade": {
+        "run": 13,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Arch", "Graveyard"],
+      "weapon": "weapon_molotov",
+      "position": [1762.0307617188, 1397.6011962891, 160.02024841309],
+      "viewangles": [-22.360834121704, -56.187061309814]
+    },
+    {
+      "name": ["A Site", "Mid"],
+      "weapon": "weapon_molotov",
+      "position": [2349.396484375, 568.12713623047, 148.25314331055],
+      "viewangles": [-37.191082000732, -178.98629760742],
+      "grenade": {
+        "run": 14,
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Site", "Arch (Cubby)"],
+      "weapon": "weapon_molotov",
+      "position": [2132.8911132813, 462.03970336914, 160.03125],
+      "viewangles": [-2.264045715332, 111.02053070068],
+      "grenade": {
+        "strength": 0.5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Site", "Short"],
+      "weapon": "weapon_molotov",
+      "position": [2175.4626464844, 523.91467285156, 160.03125],
+      "viewangles": [5.0354695320129, -122.32595062256],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Site", "Arch"],
+      "weapon": "weapon_molotov",
+      "position": [2142.3022460938, 302.61993408203, 160.03125],
+      "viewangles": [3.1411187648773, 103.88778686523],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Site", "A Site Middle"],
+      "weapon": "weapon_molotov",
+      "position": [1733.2408447266, -44.712028503418, 130.99291992188],
+      "viewangles": [-12.105010986328, 43.107803344727],
+      "grenade": {
+        "run": 3
+      }
+    },
+    {
+      "name": ["Quad", "Center Box"],
+      "weapon": "weapon_molotov",
+      "position": [1467.5534667969, -107.98780822754, 130.03125],
+      "viewangles": [-12.890426635742, 28.740550994873]
+    },
+    {
+      "name": ["Quad", "Center Box (Back)"],
+      "weapon": "weapon_hegrenade",
+      "position": [1813.5699462891, 35.897682189941, 128.06755065918],
+      "viewangles": [-11.50465965271, 43.951629638672]
+    },
+    {
+      "name": ["A Site", "Far Back Box"],
+      "weapon": "weapon_hegrenade",
+      "position": [1733.185546875, -44.733177185059, 130.98262023926],
+      "viewangles": [-12.151487350464, 43.120433807373],
+      "grenade": {
+        "run": 9
+      }
+    },
+    {
+      "name": ["Arch", "Graveyard (Back)"],
+      "weapon": "weapon_hegrenade",
+      "position": [2086.5278320313, 1178.1362304688, 164.98799133301],
+      "viewangles": [-11.135028839111, -62.813655853271]
+    },
+    {
+      "name": ["Arch", "Graveyard (Back)"],
+      "weapon": "weapon_molotov",
+      "position": [1957.3640136719, 1224.2359619141, 174.03125],
+      "viewangles": [2.0778985023499, -61.879875183105],
+      "grenade": {
+        "strength": 0.5,
+        "run": 4,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Arch", "A Site + Box (Close)"],
+      "weapon": "weapon_molotov",
+      "position": [1956.4945068359, 1225.9259033203, 174.03125],
+      "viewangles": [-38.162441253662, -87.520141601563],
+      "grenade": {
+        "jump": true
+      }
+    }
+  ],
+  "de_mirage": [
+    {
+      "name": ["Palace", "Stairs"],
+      "weapon": "weapon_molotov",
+      "position": [174.14233398438, -2363.6127929688, -39.96875],
+      "viewangles": [-7.0561809539795, 128.15444946289]
+    },
+    {
+      "name": ["Sanvich", "CT Barrels"],
+      "weapon": "weapon_molotov",
+      "position": [-321.65567016602, -1542.4787597656, -167.96875],
+      "viewangles": [-9.8756713867188, -125.54336547852],
+      "grenade": {
+        "run": 13
+      }
+    },
+    {
+      "name": ["B Site", "Apps"],
+      "weapon": "weapon_molotov",
+      "position": [-2341.5249023438, -218.24768066406, -165.97674560547],
+      "viewangles": [-1.7801184654236, 50.065490722656],
+      "grenade": {
+        "delay": 4,
+        "jump": true
+      }
+    },
+    {
+      "name": ["A", "Ramp"],
+      "weapon": "weapon_molotov",
+      "position": [68.929321289063, -1699.8421630859, -167.96875],
+      "viewangles": [1.9601449966431, 46.538581848145]
+    },
+    {
+      "name": ["A", "Ramp"],
+      "weapon": "weapon_hegrenade",
+      "position": [68.935234069824, -1699.8359375, -167.96875],
+      "viewangles": [1.9601449966431, 46.538581848145]
+    },
+    {
+      "name": ["Palace BACK", "Balcony"],
+      "weapon": "weapon_hegrenade",
+      "position": [939.19268798828, -2184.0778808594, -39.96875],
+      "viewangles": [-3.2340443134308, -167.76229858398],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Palace MIDDLE", "Balcony"],
+      "weapon": "weapon_hegrenade",
+      "position": [731.92364501953, -2184.9201660156, -39.96875],
+      "viewangles": [-2.5873332023621, -164.57342529297],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Palace SHORT", "Balcony"],
+      "weapon": "weapon_hegrenade",
+      "position": [538.32403564453, -2176.3742675781, -39.96875],
+      "viewangles": [-2.1715109348297, -158.47523498535],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Palace BACK", "Balcony"],
+      "weapon": "weapon_molotov",
+      "position": [939.19635009766, -2184.0424804688, -39.96875],
+      "viewangles": [-3.2340841293335, -167.75061035156],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Palace MIDDLE", "Balcony"],
+      "weapon": "weapon_molotov",
+      "position": [731.93786621094, -2184.9497070313, -39.96875],
+      "viewangles": [-2.6336414813995, -164.60792541504],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Palace SHORT", "Balcony"],
+      "weapon": "weapon_molotov",
+      "position": [538.33453369141, -2176.3754882813, -39.96875],
+      "viewangles": [-2.1717426776886, -158.46311950684],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Palace", "Palace Lower"],
+      "weapon": "weapon_molotov",
+      "position": [763.5595703125, -2335.9262695313, -39.96875],
+      "viewangles": [-2.9572298526764, 66.521614074707],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Palace", "Palace Lower"],
+      "weapon": "weapon_molotov",
+      "position": [782.58862304688, -2127.9826660156, -39.96875],
+      "viewangles": [4.4347343444824, 57.605869293213],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["Jungle", "Ticketbooth (ONTOP)"],
+      "weapon": "weapon_molotov",
+      "position": [-833.08807373047, -1306.005859375, -167.96875],
+      "viewangles": [1.9577329158783, -90.308967590332],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Site", "Palace Alley"],
+      "weapon": "weapon_hegrenade",
+      "position": [-45.617301940918, -1525.0095214844, -167.96875],
+      "viewangles": [30.530233383179, -6.8259706497192],
+      "grenade": {
+        "run": 39,
+        "delay": 38,
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Site", "Palace Alley (RIGHT)"],
+      "weapon": "weapon_molotov",
+      "position": [-32.396987915039, -1954.3781738281, -39.96875],
+      "viewangles": [3.6954023838043, 72.757987976074],
+      "grenade": {
+        "run": 33,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Connector", "Palace (Deep)"],
+      "weapon": "weapon_hegrenade",
+      "position": [-676.3046875, -1294.2774658203, -167.96875],
+      "viewangles": [-21.575792312622, -52.279525756836],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Connector", "Palace (Deep)"],
+      "weapon": "weapon_molotov",
+      "position": [-674.18170166016, -1295.9140625, -167.96875],
+      "viewangles": [-21.760721206665, -52.187339782715],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["Connector", "Ticket"],
+      "weapon": "weapon_molotov",
+      "position": [-608.09454345703, -1007.7650756836, -215.96875],
+      "viewangles": [-24.070802688599, -99.033332824707],
+      "grenade": {
+        "run": 12
+      }
+    },
+    {
+      "name": ["CT Start ", "CT Oneway"],
+      "weapon": "weapon_molotov",
+      "position": [-1305.8388671875, -2466.6911621094, -197.22392272949],
+      "viewangles": [5.1921515464783, 110.01776885986]
+    },
+    {
+      "name": ["CT Start", "CT Oneway"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1305.8420410156, -2466.7023925781, -197.22511291504],
+      "viewangles": [5.2132787704468, 109.96385192871]
+    },
+    {
+      "name": ["Jungle", "Ramp (Deep)"],
+      "weapon": "weapon_molotov",
+      "position": [-1119.9851074219, -1527.0538330078, -156.07383728027],
+      "viewangles": [-12.527881622314, -0.92246651649475],
+      "grenade": {
+        "run": 8
+      }
+    },
+    {
+      "name": ["Jungle", "Connector End"],
+      "weapon": "weapon_molotov",
+      "position": [-858.42657470703, -1480.6087646484, -167.96875],
+      "viewangles": [1.701610326767, 50.830921173096],
+      "grenade": {
+        "run": 5
+      }
+    },
+    {
+      "name": ["Jungle", "Tetris"],
+      "weapon": "weapon_molotov",
+      "position": [-1119.9926757813, -1527.0593261719, -156.07298278809],
+      "viewangles": [-15.161470413208, -0.87563800811768]
+    },
+    {
+      "name": ["Jungle", "Ramp"],
+      "weapon": "weapon_molotov",
+      "position": [-1119.9831542969, -1527.0593261719, -156.07298278809],
+      "viewangles": [-18.118257522583, -0.87563794851303]
+    },
+    {
+      "name": ["Jungle", "Ramp (Deep)"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1119.9864501953, -1527.0570068359, -156.07403564453],
+      "viewangles": [-9.8484926223755, 0.084681585431099],
+      "grenade": {
+        "run": 5
+      }
+    },
+    {
+      "name": ["Jungle", "Ramp"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1078.7365722656, -1507.1976318359, -161.20550537109],
+      "viewangles": [-11.835223197937, -3.7681012153625],
+      "grenade": {
+        "run": 7
+      }
+    },
+    {
+      "name": ["Connector", "Chair"],
+      "weapon": "weapon_molotov",
+      "position": [-672.46813964844, -847.81298828125, -260.05874633789],
+      "viewangles": [-32.394248962402, 66.409683227539],
+      "grenade": {
+        "run": 23,
+        "recovery_yaw": 180
+      }
+    },
+    {
+      "name": ["Connector", "Chair"],
+      "weapon": "weapon_hegrenade",
+      "position": [-672.46801757813, -847.78277587891, -260.07678222656],
+      "viewangles": [-32.394214630127, 66.300392150879],
+      "grenade": {
+        "run": 23,
+        "recovery_yaw": 180
+      }
+    },
+    {
+      "name": ["Ramp", "Balcony Fakeduck"],
+      "weapon": "weapon_molotov",
+      "position": [361.26422119141, -1703.6882324219, -192.60075378418],
+      "viewangles": [-12.713398933411, 124.59525299072],
+      "grenade": {
+        "run": 20
+      }
+    },
+    {
+      "name": ["A Site", "Palace Alley (LEFT)"],
+      "weapon": "weapon_molotov",
+      "position": [-174.66860961914, -1917.939453125, -167.96875],
+      "viewangles": [-7.8167700767517, 59.953964233398],
+      "grenade": {
+        "run": 30,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Jungle", "Palace"],
+      "weapon": "weapon_molotov",
+      "position": [-1201.4320068359, -1342.4914550781, -174.45570373535],
+      "viewangles": [0.49882653355598, -31.558288574219],
+      "grenade": {
+        "run": 20,
+        "recovery_yaw": -115,
+        "jump": true
+      }
+    },
+    {
+      "name": ["A Site", "Box Fakeduck"],
+      "weapon": "weapon_hegrenade",
+      "position": [-242.28019714355, -1839.7453613281, -167.96875],
+      "viewangles": [-12.012017250061, 127.65996551514]
+    },
+    {
+      "name": ["Connector", "Chair"],
+      "weapon": "weapon_molotov",
+      "position": [-682.62615966797, -939.7314453125, -215.96875],
+      "viewangles": [1.5246012210846, 68.986457824707],
+      "grenade": {
+        "run": 20,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Connector", "Jungle (Corner shit spot)"],
+      "weapon": "weapon_molotov",
+      "position": [-586.16088867188, -1202.6042480469, -167.96875],
+      "viewangles": [15.476942062378, -140.67694091797],
+      "grenade": {
+        "run": 23,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Ramp", "Crate Fakeduck"],
+      "weapon": "weapon_molotov",
+      "position": [350.01916503906, -1490.4625244141, -175.96875],
+      "viewangles": [-9.5707216262817, -117.24669647217],
+      "grenade": {
+        "run": 9,
+        "recovery_yaw": 180,
+        "run_yaw": -95
+      }
+    },
+    {
+      "name": ["Ramp", "Jungle (Corner shit spot)"],
+      "weapon": "weapon_molotov",
+      "position": [428.65640258789, -1613.5535888672, -226.29504394531],
+      "viewangles": [-16.223833084106, 174.94206237793],
+      "grenade": {
+        "run": 30
+      }
+    },
+    {
+      "name": ["Ramp", "Stairs"],
+      "weapon": "weapon_molotov",
+      "position": [497.67175292969, -1570.1180419922, -260.8005065918],
+      "viewangles": [-25.325252532959, 178.17614746094]
+    },
+    {
+      "name": ["Ramp", "Stairs"],
+      "weapon": "weapon_molotov",
+      "position": [462.27035522461, -1634.3784179688, -243.10330200195],
+      "viewangles": [-17.194067001343, 170.36796569824],
+      "grenade": {
+        "run": 15,
+        "recovery_yaw": 104
+      }
+    },
+    {
+      "name": ["A Site", "Box Fakeduck"],
+      "weapon": "weapon_molotov",
+      "position": [-242.26631164551, -1839.7630615234, -167.96875],
+      "viewangles": [-12.112157821655, 127.64294433594]
+    },
+    {
+      "name": ["Palace", "Fakeduck"],
+      "weapon": "weapon_molotov",
+      "position": [143.63168334961, -2375.7553710938, -39.96875],
+      "viewangles": [4.7846984863281, 107.07290649414]
+    },
+    {
+      "name": ["Palace", "Fakeduck"],
+      "weapon": "weapon_hegrenade",
+      "position": [143.8748626709, -2375.6801757813, -39.96875],
+      "viewangles": [8.6652755737305, 107.1842880249]
+    },
+    {
+      "name": ["Palace", "Balcony (Corner Hold)"],
+      "weapon": "weapon_molotov",
+      "position": [538.34252929688, -2176.3647460938, -39.96875],
+      "viewangles": [-4.0860862731934, -158.53930664063],
+      "grenade": {
+        "run": 18
+      }
+    },
+    {
+      "name": ["Palace", "Balcony (Coner Hold)"],
+      "weapon": "weapon_hegrenade",
+      "position": [538.29718017578, -2176.3205566406, -39.96875],
+      "viewangles": [-4.1785998344421, -158.5205078125],
+      "grenade": {
+        "run": 19
+      }
+    },
+    {
+      "name": ["Palace", "Firebox"],
+      "weapon": "weapon_hegrenade",
+      "position": [78.408737182617, -2347.43359375, -39.96875],
+      "viewangles": [17.470252990723, 113.5172958374],
+      "grenade": {
+        "run": 2
+      }
+    },
+    {
+      "name": ["Palace", "Firebox"],
+      "weapon": "weapon_molotov",
+      "position": [94.612861633301, -2367.0341796875, -39.96875],
+      "viewangles": [18.440393447876, 115.41206359863],
+      "grenade": {
+        "run": 10
+      }
+    },
+    {
+      "name": ["Short", "Van (BALLER)"],
+      "weapon": "weapon_molotov",
+      "position": [-1120.9157714844, 134.20196533203, -170.77648925781],
+      "viewangles": [9.9165515899658, 141.65830993652],
+      "grenade": {
+        "run": 20,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Short", "Van (50HP)"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1152.3447265625, 169.77581787109, -170.47396850586],
+      "viewangles": [8.2533531188965, 142.484375],
+      "grenade": {
+        "run": 30,
+        "jump": true
+      }
+    },
+    {
+      "name": ["B Trash", "Apps"],
+      "weapon": "weapon_molotov",
+      "position": [-2415.8403320313, -87.94603729248, -111.91970825195],
+      "viewangles": [3.2175967693329, 43.900020599365],
+      "grenade": {
+        "delay": 5,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Apps", "Bench"],
+      "weapon": "weapon_molotov",
+      "position": [-1303.7390136719, 807.97149658203, -79.96875],
+      "viewangles": [-3.2966933250427, -162.33517456055],
+      "grenade": {
+        "run": 20,
+        "recovery_yaw": 180
+      }
+    },
+    {
+      "name": ["Van", "Kitchen Window"],
+      "weapon": "weapon_molotov",
+      "position": [-2316.037109375, 795.85003662109, -123.680809021],
+      "viewangles": [-16.972019195557, -70.579109191895]
+    },
+    {
+      "name": ["B Site", "Pillar"],
+      "weapon": "weapon_molotov",
+      "position": [-2327.591796875, 91.722900390625, -167.96875],
+      "viewangles": [-19.189622879028, 43.488777160645],
+      "grenade": {
+        "run": 9
+      }
+    },
+    {
+      "name": ["B Site", "Apps"],
+      "weapon": "weapon_hegrenade",
+      "position": [-2407.5515136719, -96.463584899902, -111.91970825195],
+      "viewangles": [2.3855445384979, 44.86882019043],
+      "grenade": {
+        "run": 6,
+        "delay": 5,
+        "jump": true
+      }
+    }
+  ],
+  "de_nuke": [
+    {
+      "name": ["Ramp", "Control (Short)"],
+      "weapon": "weapon_molotov",
+      "position": [797.02911376953, 75.696067810059, -639.96875],
+      "viewangles": [-6.9299969673157, -72.503433227539]
+    },
+    {
+      "name": ["Observation", "Garage"],
+      "weapon": "weapon_hegrenade",
+      "position": [1391.9685058594, -769.32257080078, -683.51751708984],
+      "viewangles": [-9.1478996276855, 144.84930419922],
+      "grenade": {
+        "run": 17,
+        "recovery_yaw": 90
+      }
+    },
+    {
+      "name": ["Ramp", "Control (Deep)"],
+      "weapon": "weapon_molotov",
+      "position": [762.83251953125, 94.460823059082, -639.96875],
+      "viewangles": [-4.9437589645386, -68.520439147949],
+      "grenade": {
+        "run": 24
+      }
+    },
+    {
+      "name": ["Tuns", "Garage"],
+      "weapon": "weapon_hegrenade",
+      "position": [1026.3526611328, -982.01727294922, -767.96875],
+      "viewangles": [-12.705477714539, 125.6851272583],
+      "grenade": {
+        "run": 12,
+        "recovery_yaw": -90
+      }
+    },
+    {
+      "name": ["B Site", "Garage"],
+      "weapon": "weapon_molotov",
+      "position": [625.86657714844, -1359.96875, -767.96875],
+      "viewangles": [-17.158615112305, 102.7914276123],
+      "grenade": {
+        "run": 8
+      }
+    }
+  ],
+  "de_overpass": [
+    {
+      "name": ["Water", "Water (FD)"],
+      "weapon": "weapon_molotov",
+      "position": [-1409.8264160156, -1014.4666137695, 6.2794456481934],
+      "viewangles": [2.1427373886108, 82.498016357422],
+      "grenade": {
+        "recovery_yaw": 0,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Water", "A Site"],
+      "weapon": "weapon_molotov",
+      "position": [-1519.7319335938, -841.43170166016, 57.119026184082],
+      "viewangles": [3.8515586853027, 59.096363067627],
+      "grenade": {
+        "run": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Water", "Barrels"],
+      "weapon": "weapon_molotov",
+      "position": [-1553.9880371094, -900.060546875, 54.964508056641],
+      "viewangles": [7.0852556228638, 61.924861907959],
+      "grenade": {
+        "run": 6,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Canal", "Barrels"],
+      "weapon": "weapon_hegrenade",
+      "position": [-580.46325683594, -1327.6572265625, 138.25981140137],
+      "viewangles": [4.3952684402466, 100.58469390869],
+      "grenade": {
+        "run": 60,
+        "recovery_yaw": -90,
+        "run_yaw": 10,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Construction", "Water (FD)"],
+      "weapon": "weapon_molotov",
+      "position": [-1096.9165039063, -633.13928222656, 96.03125],
+      "viewangles": [-1.5708849430084, 88.753944396973],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Construction", "Barrels"],
+      "weapon": "weapon_molotov",
+      "position": [-1096.9753417969, -633.24084472656, 96.03125],
+      "viewangles": [-1.6448746919632, 83.178756713867],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Construction", "Water (FD)"],
+      "weapon": "weapon_molotov",
+      "position": [-1064.1176757813, -638.99224853516, 96.03125],
+      "viewangles": [-2.476713180542, 84.991592407227],
+      "grenade": {
+        "run": 11,
+        "recovery_yaw": 90
+      }
+    },
+    {
+      "name": ["Water", "Heaven"],
+      "weapon": "weapon_molotov",
+      "position": [-1302.8719482422, -973.49700927734, 4.8295440673828],
+      "viewangles": [-5.4335827827454, 104.28324127197],
+      "grenade": {
+        "run": 19,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Water", "Heaven"],
+      "weapon": "weapon_hegrenade",
+      "position": [-1302.8959960938, -973.56372070313, 4.8311805725098],
+      "viewangles": [-2.7079217433929, 104.34934997559],
+      "grenade": {
+        "run": 18,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Construction", "Heaven"],
+      "weapon": "weapon_molotov",
+      "position": [-1087.7349853516, -638.98309326172, 96.03125],
+      "viewangles": [0.017789103090763, 119.17153167725],
+      "grenade": {
+        "jump": true
+      }
+    },
+    {
+      "name": ["Construction", "Water (BACK)"],
+      "weapon": "weapon_molotov",
+      "position": [-856.07965087891, -638.91900634766, 96.03125],
+      "viewangles": [3.3432586193085, 124.352684021],
+      "grenade": {
+        "strength": 0.5,
+        "delay": 2,
+        "jump": true
+      }
+    }
+  ],
+  "de_shortnuke": [
+    {
+      "name": ["Ramp", "Truck"],
+      "weapon": "weapon_molotov",
+      "position": [-1279.9599609375, 1039.9615478516, -170.33215332031],
+      "viewangles": [-5.4978504180908, -23.672880172729],
+      "grenade": {
+        "recovery_jump": true,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Stairs", "Truck"],
+      "weapon": "weapon_molotov",
+      "position": [-1370.65625, 1391.9582519531, 0.03125],
+      "viewangles": [-17.602331161499, -41.313007354736],
+      "grenade": {
+        "run": 16
+      }
+    },
+    {
+      "name": ["Cat", "Truck"],
+      "weapon": "weapon_molotov",
+      "position": [-897.31884765625, 988.31939697266, 35.03125],
+      "viewangles": [-14.368753433228, -43.624027252197],
+      "grenade": {
+        "run": 5
+      }
+    },
+    {
+      "name": ["Cat", "Truck"],
+      "weapon": "weapon_hegrenade",
+      "position": [-897.33477783203, 988.30224609375, 35.03125],
+      "viewangles": [-14.488492965698, -43.654289245605],
+      "grenade": {
+        "run": 10
+      }
+    },
+    {
+      "name": ["Stairs", "Truck"],
+      "weapon": "weapon_molotov",
+      "position": [-1247.9869384766, 1263.9683837891, -101.55474853516],
+      "viewangles": [-0.37864765524864, -39.92590713501],
+      "grenade": {
+        "run": 12,
+        "jump": true
+      }
+    }
+  ],
+  "de_vertigo": [
+    {
+      "name": ["B", "Generator"],
+      "weapon": "weapon_molotov",
+      "position": [-2374.9580078125, 334.68438720703, 11744.03125],
+      "viewangles": [-9.5144805908203, 61.410816192627],
+      "grenade": {
+        "run": 9,
+        "delay": 7,
+        "jump": true
+      }
+    },
+    {
+      "name": ["B", "Middle Box"],
+      "weapon": "weapon_molotov",
+      "position": [-1707.1424560547, 758.85418701172, 11776.03125],
+      "viewangles": [-15.615547180176, 138.50744628906],
+      "grenade": {
+        "run": 4,
+        "delay": 10,
+        "jump": true
+      }
+    },
+    {
+      "name": ["Mid", "Platform"],
+      "weapon": "weapon_molotov",
+      "position": [-1752.2950439453, -84.928436279297, 11776.03125],
+      "viewangles": [-26.827102661133, 66.284370422363]
+    },
+    {
+      "name": ["T", "Middle Box"],
+      "weapon": "weapon_molotov",
+      "position": [-1650.8209228516, -194.55821228027, 11776.03125],
+      "viewangles": [-18.442998886108, 127.60316467285]
+    }
+  ]
+}}
